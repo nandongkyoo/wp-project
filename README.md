@@ -3,6 +3,11 @@
 > 소설 『프로젝트 헤일메리』를 모티브로 한 우주 테마 벽돌깨기 웹 게임
 > 2학년 1학기 웹프로그래밍 4인 팀 프로젝트 (2026.05 ~ 2026.06)
 
+   <p align="center">
+     <a href="https://nandongkyoo.github.io/wp-project/"><b>▶ 바로 플레이하기</b></a>
+     &nbsp;·&nbsp;
+     <a href="https://github.com/parkcoool/wp-project">원본 팀 레포지토리</a>
+   </p>
 <br>
 
 ## 🎮 게임 소개
